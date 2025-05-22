@@ -1,0 +1,1 @@
+A fun and interactive console-based number guessing game written in C++. The game challenges players to guess a randomly generated number between 1 and 6, with only 5 chances to get it right. Each correct guess reveals a unique "reward" message, and helpful hints guide players based on how close their guesses are.
